@@ -19,6 +19,7 @@ Header {
   align-items: center;
   padding: 10px;
   margin: 5px;
+  margin-top: 0;
 }
 
 .fa-brands {

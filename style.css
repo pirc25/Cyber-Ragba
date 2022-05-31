@@ -24,7 +24,7 @@ Header {
   color: aliceblue;
 }
 
-.sitios {
+#sitios {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -38,7 +38,7 @@ Header {
   text-decoration: none;
   color:white;
   margin: 5px;
-  padding: 5px;
+  padding: 10px 0;
   width: 25%;
   border: 1px solid blue;
   text-align: center;

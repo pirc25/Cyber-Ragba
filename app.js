@@ -6,7 +6,7 @@ function getElements() {
 
 function mostrarEnlaces() {
   let elementoA = '';
-  enlaces.forEach(enlace => { elementoA += `<a href= ${enlace.url} class='enlace'>${enlace.nombre}</a>`   
+  enlaces.forEach(enlace => { elementoA += `<a href= ${enlace.url} class='enlace' target='_blank'>${enlace.nombre}</a>`   
   });
   sitios.innerHTML = elementoA;
   };

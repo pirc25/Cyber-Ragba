@@ -5,6 +5,12 @@
   font-family:Arial, Helvetica, sans-serif;
 }
 
+body{
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
 h1 {
   text-align: center;
   color: aliceblue;
@@ -49,4 +55,17 @@ Header {
 .enlace:hover {
   background-color: white;
   color: blue;
+}
+
+
+@media (max-width:793px) {
+  .enlace {
+  margin: 5px;
+  padding: 10px 0;
+  width: 40%;
+  }
+  .enlace:hover {
+  background-color: white;
+  color: blue;
+  }
 }

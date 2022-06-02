@@ -1,17 +1,14 @@
-# Project Name
+# Project Name: Cyber Ragba
 
-> Description the project.
-
+This project is created with the objective of users from Cyber Ragba to access easier governmental pages.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: JavaScript, html, CSS
 
-## Live Demo (if available)
+## Live Demo
 
-
+[Cyber Ragba](https://pirc25.github.io/Cyber-Ragba/)
 
 
 ## Getting Started
@@ -40,9 +37,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@pirc25](https://github.com/pirc25))
+- Twitter: [@RichardBurneo](https://twitter.com/home?lang=es)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/richard-burneo-aguilera-1277aa203/)
 
 
 ## 🤝 Contributing

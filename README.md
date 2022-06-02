@@ -1,4 +1,4 @@
-# Cyber Ragba links0
+# Cyber Ragba links
 
 This project is created with the objective of users from Cyber Ragba to access easier governmental pages.
 

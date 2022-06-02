@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Burneo**
 
 - GitHub: [@pirc25](https://github.com/pirc25))
 - Twitter: [@RichardBurneo](https://twitter.com/home?lang=es)

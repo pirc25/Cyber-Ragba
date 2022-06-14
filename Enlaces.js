@@ -17,6 +17,12 @@ export const enlaces = [{
   nombre: "Présta Hipotecarios Biess PH",
   institucion: "BIESS",
 },
+                        {                        
+ id:23,
+  url: " https://app.iess.gob.ec/iess-gestion-desbloqueo-clave-web/public/desbloquearClave.jsf" ,
+  nombre: "Desbloqueo claves",
+  institucion: "IESS",
+},                  
 {
   id: 4,
   url: "https://www.iess.gob.ec/afiliado-web/pages/principal.jsf" ,
@@ -38,7 +44,7 @@ export const enlaces = [{
 
 {
   id:7,
-  url: "https://www.iess.gob.ec/afiliado-web/pages/opcionesGenerales/eleccionCertificadoDeAfiliacion.jsf" ,
+  url: "https://www.iess.gob.ec/afiliado-web/pages/opcionesGenerales/seleccionCertificadoDeAfiliacion.jsf" ,
   nombre: "Certificado de afiliación",
   institucion: "IESS",
 },
@@ -59,7 +65,7 @@ export const enlaces = [{
 
 {
   id:10,
-  url: "https://srienlinea.sri.gob.ec/auth/realms/Internet/protocol/openid-connect/auth?client_id=app-sri-claves-angular&redirect_uri=https%3A%2F%2Fsrienlinea.sri.gob.ec%2Fsri-en-linea%2F%2Fcontribuyente%2Fperfil&state=4381952f-8d38-4b9b-9846-50c3970fbb44&nonce=cdea837a-3994-42fd-8bec-25c8bc5326d0&response_mode=fragment&response_type=code&scope=openid" ,
+  url: "https://srienlinea.sri.gob.ec/sri-en-linea/inicio/NAT" ,
   nombre: "SRI",
   institucion: "SRI",
 },
@@ -101,14 +107,14 @@ export const enlaces = [{
 
 {
   id:16,
-  url: "https://mail.loja.gob.ec:8443/;jsessionid=lkoi4edzbup21vgay6hg4i0u9?loginOp=relogin&client=socialfox&loginErrorCode=service.AUTH_REQUIRED" ,
+  url: "https://mail.loja.gob.ec:8443" ,
   nombre: "Zimbra Municipio Loja",
   institucion: "Municipio Loja",
 },
 
 {
   id:17,
-  url: "https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" ,
+  url: "https://gmail.com" ,
   nombre: "Gmail",
   institucion: "Google",
 },
@@ -140,4 +146,12 @@ export const enlaces = [{
   nombre: "Recargas Fullcarga",
   institucion: "fullcarga",
 },
+{
+  id:22,
+  url: "http://www.eerssa.gob.ec/links-intranet/consultar-facturas-electronicas/" ,
+  nombre: "EERSA Planillas de Luz",
+  institucion: "EERSA",
+},
+ 
 ]
+

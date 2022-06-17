@@ -158,6 +158,11 @@ export const enlaces = [{
   nombre: "EERSA Planillas de Luz",
   institucion: "EERSA",
 },
- 
+ {
+  id:24,
+  url: "http://186.178.204.52/kioskos/inicio.php" ,
+  nombre: "EERSA valor pago luz",
+  institucion: "EERSA",
+},
 ]
 

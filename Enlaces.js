@@ -17,7 +17,13 @@ export const enlaces = [{
   nombre: "Présta Hipotecarios Biess PH",
   institucion: "BIESS",
 },
-                        {                        
+{
+  id: 24,
+  url: "https://app.iess.gob.ec/iess-gestion-turnero-enlinea-web" ,
+  nombre: "Turno IESS",
+  institucion: "IESS",
+},
+{                        
  id:23,
   url: " https://app.iess.gob.ec/iess-gestion-desbloqueo-clave-web/public/desbloquearClave.jsf" ,
   nombre: "Desbloqueo claves",

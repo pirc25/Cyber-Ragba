@@ -14,7 +14,7 @@ export const enlaces = [{
 {
   id: 3,
   url: "https://ph.biess.fin.ec/ph-web/main.jsf" ,
-  nombre: "Présta Hipotecarios Biess PH",
+  nombre: "Préstamos Hipotecarios Biess PH",
   institucion: "BIESS",
 },
 {
@@ -44,7 +44,7 @@ export const enlaces = [{
 {
   id:6,
   url: "https://app.iess.gob.ec/iess-fondo-reserva-afiliado-web/app/index" ,
-  nombre: "Fondos de Reserva ",
+  nombre: "Fondos de Reserva",
   institucion: "IESS",
 },
 

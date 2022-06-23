@@ -64,8 +64,8 @@ export const enlaces = [{
 
 {
   id:9,
-  url: "https://www.iess.gob.ec/prjPensionesJubilacion-web/" ,
-  nombre: "Jubilados",
+  url: "https://www.iess.gob.ec/pensionistas/" ,
+  nombre: "Jubilados o Pensionistas",
   institucion: "IESS",
 },
 

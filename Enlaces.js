@@ -7,7 +7,7 @@ export const enlaces = [{
 },
 {
    id :2,
-  url: "https://pq.biess.fin.ec/pq-concesion-web/pages/concesion/roles.jsf" ,
+  url: "pq.biess.fin.ec/" ,
   nombre: "Préstamos Quirografarios Biess PQ",
   institucion: "BIESS",
 },

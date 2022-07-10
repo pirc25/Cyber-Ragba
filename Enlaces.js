@@ -32,7 +32,7 @@ export const enlaces = [{
 {
   id: 4,
   url: "https://www.iess.gob.ec/afiliado-web/pages/principal.jsf" ,
-  nombre: "Hisotria laboral IESS",
+  nombre: "Historia laboral IESS",
   institucion: "IESS",
 },
 {

@@ -7,13 +7,13 @@ export const enlaces = [{
 },
 {
    id :2,
-  url: "pq.biess.fin.ec/" ,
+  url: "https://pq.biess.fin.ec/" ,
   nombre: "Préstamos Quirografarios Biess PQ",
   institucion: "BIESS",
 },
 {
   id: 3,
-  url: "https://ph.biess.fin.ec/ph-web/main.jsf" ,
+  url: "https://ph.biess.fin.ec" ,
   nombre: "Préstamos Hipotecarios Biess PH",
   institucion: "BIESS",
 },

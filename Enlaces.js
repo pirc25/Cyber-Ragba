@@ -153,6 +153,13 @@ export const enlaces = [{
   institucion: "fullcarga",
 },
 {
+  id:21,
+  url: "https://www.minegocioefectivo.com/" ,
+  nombre: "Mi negocio Efectivo",
+  institucion: "Mi negocio Efectivo",
+},
+                        
+{
   id:22,
   url: "http://www.eerssa.gob.ec/links-intranet/consultar-facturas-electronicas/" ,
   nombre: "EERSA Planillas de Luz",

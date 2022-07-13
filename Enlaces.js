@@ -163,6 +163,12 @@ export const enlaces = [{
   url: "http://186.178.204.52/kioskos/inicio.php" ,
   nombre: "EERSA valor pago luz",
   institucion: "EERSA",
+},                     
+ {
+  id:25,
+  url: "https://cuentasbancarias.trabajo.gob.ec/" ,
+  nombre: "Registro de cuenta Bancaria Acta de Finiquito",
+  institucion: "Ministerio de Trabajo",
 },
 ]
 

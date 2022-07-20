@@ -189,5 +189,11 @@ export const enlaces = [{
   nombre: "SUT Ministerio de trabajo",
   institucion: "Ministerio de Trabajo",
 },
+                        {
+  id:28,
+  url: "https://consultasecuador.com/" ,
+  nombre: "Consulta Ecuador",
+  institucion: "Consulta Ecuador",
+},
 ]
 

@@ -177,5 +177,17 @@ export const enlaces = [{
   nombre: "Registro de cuenta Bancaria Acta de Finiquito",
   institucion: "Ministerio de Trabajo",
 },
+{
+  id:26,
+  url: "https://sut.trabajo.gob.ec/mrl/loginContratos.xhtml" ,
+  nombre: "SUT ministerio de trabajo contratos",
+  institucion: "Ministerio de Trabajo",
+},                     
+{
+  id:27,
+  url: "https://sut.trabajo.gob.ec/" ,
+  nombre: "SUT Ministerio de trabajo",
+  institucion: "Ministerio de Trabajo",
+},
 ]
 

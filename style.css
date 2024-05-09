@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
 }
 
-body{
+body {
   width: 100vw;
   height: 100vh;
   overflow-y: scroll;
@@ -20,7 +20,7 @@ h1 {
 Header {
   background-color: #387dff;
   display: flex;
-  flex-direction:  column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 10px;
@@ -34,11 +34,11 @@ Header {
 /* SEARCH BAR*/
 
 #main {
-  margin: 0 10vw 0 0;
+  margin: 0 40vw 0 0;
   padding: 0vw;
   display: flex;
   align-items: center;
-  justify-content: end; 
+  justify-content: end;
   height: 10vw;
   left: 700vw;
 }
@@ -67,7 +67,8 @@ Header {
   transition: all 1s;
 }
 
-::placeholder, #input {
+::placeholder,
+#input {
   color: white;
   font-size: 1.3vw;
   font-family: sans-serif;
@@ -75,6 +76,7 @@ Header {
 
 #main2:hover #input {
   width: 20vw;
+  margin: 0 0 0 0;
 }
 
 #main2:hover #search {
@@ -82,6 +84,7 @@ Header {
   color: white;
   font-size: 2vw;
   bottom: 0.4vw;
+  margin: 0 0 0;
 }
 
 #sitios {
@@ -89,14 +92,35 @@ Header {
   flex-direction: row;
   align-items: center;
   gap: 20px;
-  flex-wrap:wrap;
-  margin-left:10% ;
+  flex-wrap: wrap;
+  margin-left: 10%;
+}
+
+.botones {
+  margin-bottom: 40px;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#buttonBuscar {
+  background-color: white;
+  color: #387dff;
+  border: 3px solid #387dff;
+  width: 10%;
+}
+
+#buttonBuscar:hover {
+  background-color: #387dff;
+  color: white;
+  border: 1px solid blue;
 }
 
 .enlace {
   outline: none;
   text-decoration: none;
-  color:white;
+  color: white;
   margin: 5px;
   padding: 10px 0;
   width: 25%;
@@ -111,15 +135,14 @@ Header {
   color: blue;
 }
 
-
-@media (max-width:793px) {
+@media (max-width: 793px) {
   .enlace {
-  margin: 5px;
-  padding: 10px 0;
-  width: 40%;
+    margin: 5px;
+    padding: 10px 0;
+    width: 40%;
   }
   .enlace:hover {
-  background-color: white;
-  color: blue;
+    background-color: white;
+    color: blue;
   }
 }

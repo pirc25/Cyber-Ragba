@@ -70,13 +70,6 @@ export const enlaces = [
   },
 
   {
-    id: 33,
-    url: "https://www.iess.gob.ec/empleador-web/pages/morapatronal/certificadoCumplimientoPublico.jsf",
-    nombre: "Certificado de obligaciones patronales",
-    institucion: "IESS",
-  },
-
-  {
     id: 34,
     url: "https://www.iess.gob.ec/empleador-web/pages/morapatronal/certificadoCumplimientoPublico.jsf",
     nombre: "Certificado de obligaciones patronales",

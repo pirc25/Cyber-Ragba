@@ -27,8 +27,7 @@ function mostrarResultados(enlaces) {
 }
 
 function buscar() {
-  console.log(document.getElementById("input").value.toLowerCase());
-  const valorBusqueda = document.getElementById("input").value.toLowerCase();
+  const valorBusqueda = document.getElementById("valor").value.toLowerCase();
   const resultados = buscarPorNombre(enlaces, valorBusqueda);
   mostrarResultados(resultados);
 }

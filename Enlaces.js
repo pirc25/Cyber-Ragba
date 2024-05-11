@@ -77,6 +77,13 @@ export const enlaces = [
   },
 
   {
+    id: 34,
+    url: "https://www.iess.gob.ec/empleador-web/pages/morapatronal/certificadoCumplimientoPublico.jsf",
+    nombre: "Certificado de obligaciones patronales",
+    institucion: "IESS",
+  },
+
+  {
     id: 35,
     url: "https://app.iess.gob.ec/iess-gestion-recaudacion-cartera-empleador-web/app/index",
     nombre: "Acceder acuerdos de pagos parciales en línea",
@@ -161,6 +168,27 @@ export const enlaces = [
   },
 
   {
+    id: 38,
+    url: "https://www.defensa.gob.ec/certificados-en-linea/",
+    nombre: "certificado de no pertenecer a las fuerzas armadas",
+    institucion: "Fuerzas Armadas",
+  },
+
+  {
+    id: 42,
+    url: "  https://certificados.ministeriodelinterior.gob.ec/gestorcertificados/dnobaja/",
+    nombre: "certificado de no pertenecer a la Policia",
+    institucion: "Policia",
+  },
+
+  {
+    id: 39,
+    url: "https://certificados.ministeriodelinterior.gob.ec/gestorcertificados/antecedentes/",
+    nombre: "certificado antecedentes penalies",
+    institucion: "Ministerio del Interior",
+  },
+
+  {
     id: 17,
     url: "https://gmail.com",
     nombre: "Gmail",
@@ -225,6 +253,21 @@ export const enlaces = [
     nombre: "SUT ministerio de trabajo contratos",
     institucion: "Ministerio de Trabajo",
   },
+
+  {
+    id: 40,
+    url: "https://calculadoras.trabajo.gob.ec/impedimento",
+    nombre: "Certificado de no tener impedimento de ejercer cargo publico",
+    institucion: "Ministerio de Trabajo",
+  },
+
+  {
+    id: 41,
+    url: "https://calculadoras.trabajo.gob.ec/dependencia",
+    nombre: "Certificado de no tener dependencia en el sector publico",
+    institucion: "Ministerio de Trabajo",
+  },
+
   {
     id: 27,
     url: "https://sut.trabajo.gob.ec/",

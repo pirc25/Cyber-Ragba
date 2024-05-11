@@ -58,13 +58,34 @@ Header {
 #input {
   background: #387dff;
   padding: 0.5vw;
-  border-radius: 4vw;
-  width: 3.5vw;
+  border-radius: 4vw 4vw 4vw 4vw;
+  /*width: 3.5vw;*/
   height: 3.5vw;
   position: relative;
   left: 4.29vw;
   bottom: 0.6vw;
   transition: all 1s;
+  width: 20vw;
+  margin: 0 0 0 0;
+}
+.input-ovalado {
+  padding: 10px 24px; /* Espaciado interno aumentado */
+  border-radius: 20px; /* Radio del borde */
+  border: 2px solid #387dff; /* Borde */
+  outline: none; /* Sin contorno al hacer clic */
+  font-size: 16px; /* Tamaño de la fuente */
+  transition: padding 0.3s, border-width 0.3s; /* Transición suave del padding y del border-width */
+  text-align: center;
+}
+
+.input-ovalado:focus,
+.input-ovalado:hover {
+  padding: 16px 26px; /* Aumentar el espaciado interno al hacer clic o pasar el ratón */
+  border-width: 4px; /* Aumentar el ancho del borde al hacer clic o pasar el ratón */
+}
+
+.input-ovalado::placeholder {
+  color: #387dff; /* Color del marcador de posición */
 }
 
 ::placeholder,

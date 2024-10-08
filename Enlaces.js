@@ -56,9 +56,24 @@ export const enlaces = [
     institucion: "IESS",
   },
   {
+    id: 40,
+    url: "  https://app.iess.gob.ec/iess-gestion-cesantia-afiliado-web/publico/calculadoraSD.jsf",
+    nombre: "Simulador de seguro de deseempleo",
+    institucion: "IESS",
+  },
+
+  {
     id: 6,
     url: "https://app.iess.gob.ec/iess-fondo-reserva-afiliado-web/app/index",
     nombre: "Fondos de Reserva",
+    institucion: "IESS",
+  },
+
+  {
+    id: 6,
+    url: "https://app.iess.gob.ec/iess-fondo-reserva-afiliado-web/publico/solicitarFondosFallecido.jsf",
+    nombre:
+      "Solicitud de beneficiarios de fallecidos fondos de reserva y cesantía",
     institucion: "IESS",
   },
 
@@ -77,9 +92,9 @@ export const enlaces = [
   },
 
   {
-    id: 34,
-    url: "https://www.iess.gob.ec/empleador-web/pages/morapatronal/certificadoCumplimientoPublico.jsf",
-    nombre: "Certificado de obligaciones patronales",
+    id: 35,
+    url: "https://www.iess.gob.ec/empleador-web/pages/principal.jsf",
+    nombre: "Empelador IESS",
     institucion: "IESS",
   },
 
@@ -98,6 +113,20 @@ export const enlaces = [
   },
 
   {
+    id: 9,
+    url: "https://www.iess.gob.ec/pensionistas/",
+    nombre: "Jubilados o Pensionistas",
+    institucion: "IESS",
+  },
+
+  {
+    id: 9,
+    url: "  https://www.iess.gob.ec/prjPensionesJubilacion-web/pages/logeo.jsf",
+    nombre: "Solicitud de pensionista por viudez y orfandad",
+    institucion: "IESS",
+  },
+
+  {
     id: 31,
     url: "https://www.iess.gob.ec/prjPensionesJubilacion-web/pages/principal.jsf",
     nombre: "Rol Jubilados",
@@ -108,6 +137,12 @@ export const enlaces = [
     id: 32,
     url: "https://app.iess.gob.ec/gestion-pension-jubilacion-afiliado-web/app/index",
     nombre: "Certificado de pensionistas",
+    institucion: "IESS",
+  },
+  {
+    id: 42,
+    url: "https://app.iess.gob.ec/iess-gestion-agendamiento-citas-medicas-web/login/login.jsf",
+    nombre: "Agendamiento de citas",
     institucion: "IESS",
   },
 

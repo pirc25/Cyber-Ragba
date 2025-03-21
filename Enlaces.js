@@ -64,7 +64,7 @@ export const enlaces = [
 
   {
     id: 6,
-    url: "https://app.iess.gob.ec/iess-fondo-reserva-afiliado-web/app/index",
+    url: "https://app.iess.gob.ec/iess-gestion-fondo-reserva-afiliado-web/app/index",
     nombre: "Fondos de Reserva",
     institucion: "IESS",
   },
